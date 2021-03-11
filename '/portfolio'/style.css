@@ -1,0 +1,64 @@
+.Box{
+    width: 450px;
+    background: rgba(0, 0, 0, 0.9);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Century Gothic',sans-serif
+}
+
+.Navbar{
+    background-color: #292929;
+    padding-top: 30px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+
+body {
+    background-color: white;
+}
+
+nav{
+    text-align: center;
+    height: 20px;
+}
+
+li {
+    display: inline;
+    padding: 10px;
+    color: white;
+}
+ 
+li a {
+    color: white;
+    padding: 10px;
+    transition: 0.1s;
+}
+ 
+table {
+    margin-left: 100px;
+    margin-top: 10px;
+    background-color: #292929;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: left;
+}
+ 
+.tabel {
+    margin-left: 10px;
+    margin-top: 10px;
+    color: black;
+    font-size: 40px;
+}
+ 
+th {
+    color: white;
+    padding: 10px;
+}
+ 
+td {
+    color: white;
+}
+
